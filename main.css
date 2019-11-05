@@ -1,0 +1,27 @@
+body {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+}
+
+.aside {
+    background-color: #daccff;
+    width: 25%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.main-chonk {   
+    background-color: #fbffcc;
+    width: 50%;
+}
+
+.nav {
+    background-color: #ccffed;
+    width: 25%;
+}
+
